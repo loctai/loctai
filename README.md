@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JosephNa&fontSize=70&animation=twinkling) -->
 
-<h2 align="center"> Hi, I’m <b>LOC TAI</b> 👋</h2>
+<h2 align="center"> Hi, I’m <b>TAI, LOC VAN</b> 👋</h2>
 
 <br>
 
